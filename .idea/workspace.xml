@@ -2,7 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8603b312-4652-44cc-8350-c39bf0756117" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev-spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dev-spring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dev-spring/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dev-spring/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dev-spring/beanLifeCycle-applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dev-spring/beanScope-applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dev-spring/com/hwisun/springdemo/BaseballCoach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dev-spring/com/hwisun/springdemo/BeanLifeCycleDemoApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dev-spring/com/hwisun/springdemo/BeanScopeDemoApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dev-spring/com/hwisun/springdemo/Coach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dev-spring/com/hwisun/springdemo/CricketCoach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dev-spring/com/hwisun/springdemo/FortuneService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dev-spring/com/hwisun/springdemo/HappyFortuneService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dev-spring/com/hwisun/springdemo/HelloSpringApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dev-spring/com/hwisun/springdemo/MyApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dev-spring/com/hwisun/springdemo/SetterDemoApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dev-spring/com/hwisun/springdemo/TrackCoach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dev-spring/sport.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dev-spring/sport.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo-one/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beanLifeCycle-applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo-one/beanLifeCycle-applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beanScope-applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo-one/beanScope-applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hwisun/springdemo/BaseballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo-one/com/hwisun/springdemo/BaseballCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hwisun/springdemo/BeanLifeCycleDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo-one/com/hwisun/springdemo/BeanLifeCycleDemoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hwisun/springdemo/BeanScopeDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo-one/com/hwisun/springdemo/BeanScopeDemoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hwisun/springdemo/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo-one/com/hwisun/springdemo/Coach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hwisun/springdemo/CricketCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo-one/com/hwisun/springdemo/CricketCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hwisun/springdemo/FortuneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo-one/com/hwisun/springdemo/FortuneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hwisun/springdemo/HappyFortuneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo-one/com/hwisun/springdemo/HappyFortuneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hwisun/springdemo/HelloSpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo-one/com/hwisun/springdemo/HelloSpringApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hwisun/springdemo/MyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo-one/com/hwisun/springdemo/MyApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hwisun/springdemo/SetterDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo-one/com/hwisun/springdemo/SetterDemoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hwisun/springdemo/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo-one/com/hwisun/springdemo/TrackCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sport.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo-one/sport.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,109 +51,95 @@
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/hwisun/springdemo/MyApp.java">
+            <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/BaseballCoach.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="277">
-                  <caret line="27" column="11" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/beanScope-applicationContext.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="205">
-                  <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/beanLifeCycle-applicationContext.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="223">
-                  <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/hwisun/springdemo/SetterDemoApp.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/sport.properties">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="45">
-                  <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/hwisun/springdemo/HelloSpringApp.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+                <state relative-caret-position="195">
+                  <caret line="16" selection-start-line="16" selection-end-line="16" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/com/hwisun/springdemo/TrackCoach.java">
+            <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/SwimCoach.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
-                  <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+                <state relative-caret-position="233">
+                  <caret line="29" selection-start-line="29" selection-end-line="29" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/HappyFortuneService.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="75">
+                  <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/RandomFortuneService.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="300">
+                  <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
                   <folding>
-                    <element signature="e#535#536#0" expanded="true" />
-                    <element signature="e#571#572#0" expanded="true" />
-                    <element signature="e#653#654#0" expanded="true" />
-                    <element signature="e#711#712#0" expanded="true" />
+                    <element signature="imports" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/hwisun/springdemo/CricketCoach.java">
+            <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/AnnotationBeanScopeDemoApp.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
-                  <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+                <state relative-caret-position="195">
+                  <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/AnnotationDemoApp.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="17" selection-start-line="17" selection-end-line="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/SportConfig.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="225">
+                  <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
                   <folding>
-                    <element signature="e#151#152#0" expanded="true" />
-                    <element signature="e#187#188#0" expanded="true" />
-                    <element signature="e#693#694#0" expanded="true" />
-                    <element signature="e#728#729#0" expanded="true" />
-                    <element signature="e#759#760#0" expanded="true" />
-                    <element signature="e#786#787#0" expanded="true" />
-                    <element signature="e#127#128#0" expanded="true" />
-                    <element signature="e#154#155#0" expanded="true" />
-                    <element signature="e#207#208#0" expanded="true" />
-                    <element signature="e#234#235#0" expanded="true" />
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#696#697#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/hwisun/springdemo/Coach.java">
+            <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/JavaConfigDemoApp.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+                <state relative-caret-position="300">
+                  <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/SwimJavaConfigDemoApp.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="225">
+                  <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
                 </state>
               </provider>
             </entry>
@@ -129,54 +147,47 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="FIRST">
+                  <first_editor relative-caret-position="290">
+                    <caret line="63" column="28" lean-forward="true" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
+            <entry file="file://$PROJECT_DIR$/spring-demo-annotation/sport.properties">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="339">
-                  <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+                <state relative-caret-position="30">
+                  <caret line="2" selection-start-line="2" selection-end-line="2" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/SportConfig.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="165">
+                  <caret line="11" selection-start-line="11" selection-end-line="11" />
                   <folding>
-                    <element signature="e#1010#1031#0" expanded="true" />
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#639#640#0" expanded="true" />
+                    <element signature="e#696#697#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/.gitignore">
+            <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/SadFortuneService.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/hwisun/springdemo/BeanScopeDemoApp.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/hwisun/springdemo/BeanLifeCycleDemoApp.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/README.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="45">
-                    <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-                  </first_editor>
-                  <second_editor />
+                <state relative-caret-position="135">
+                  <caret line="11" selection-start-line="11" selection-end-line="11" />
                 </state>
               </provider>
             </entry>
@@ -193,6 +204,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>src</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -208,19 +224,45 @@
         <option value="$PROJECT_DIR$/src/com/hwisun/springdemo/CricketCoach.java" />
         <option value="$PROJECT_DIR$/src/com/hwisun/springdemo/SetterDemoApp.java" />
         <option value="$PROJECT_DIR$/src/sport.properties" />
-        <option value="$PROJECT_DIR$/src/applicationContext.xml" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/com/hwisun/springdemo/BeanScopeDemoApp.java" />
         <option value="$PROJECT_DIR$/src/beanScope-applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/com/hwisun/springdemo/TrackCoach.java" />
         <option value="$PROJECT_DIR$/src/beanLifeCycle-applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/com/hwisun/springdemo/BeanLifeCycleDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/springdemo/BeanScopeDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/springdemo/BeanLifeCycleDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/springdemo/BaseballCoach.java" />
+        <option value="$PROJECT_DIR$/src/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src-demo-annotation/com/hwisun/springdemo/AnnotionDemoApp.java" />
+        <option value="$PROJECT_DIR$/src-demo-annotation/com/hwisun/springdemo/FortuneService.java" />
+        <option value="$PROJECT_DIR$/src-demo-annotation/com/hwisun/springdemo/HappyFortuneService.java" />
+        <option value="$PROJECT_DIR$/src-demo-annotation/com/hwisun/springdemo/Coach.java" />
+        <option value="$PROJECT_DIR$/src-demo-annotation/com/hwisun/springdemo/TennisCoach.java" />
+        <option value="$PROJECT_DIR$/src-demo-annotation/com/hwisun/springdemo/AnnotationDemoApp.java" />
+        <option value="$PROJECT_DIR$/spring-demo-one/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/RandomService.java" />
+        <option value="$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/RESTFortuneService.java" />
+        <option value="$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/DatabaseFortuneService.java" />
+        <option value="$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/RandomFortuneService.java" />
+        <option value="$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/sport.properties" />
+        <option value="$PROJECT_DIR$/spring-demo-annotation/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/AnnotationDemoApp.java" />
+        <option value="$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/AnnotationBeanScopeDemoApp.java" />
+        <option value="$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/TennisCoach.java" />
+        <option value="$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/JavaConfigDemoApp.java" />
+        <option value="$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/BaseballCoach.java" />
+        <option value="$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/SadFortuneService.java" />
+        <option value="$PROJECT_DIR$/spring-demo-annotation/sport.properties" />
+        <option value="$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/SwimCoach.java" />
+        <option value="$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/SwimJavaConfigDemoApp.java" />
+        <option value="$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/SportConfig.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1280" />
+    <option name="x" value="-1281" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="732" />
@@ -233,8 +275,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,35 +282,12 @@
               <item name="dev-spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="dev-spring" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="dev-spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dev-spring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dev-spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dev-spring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="springdemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dev-spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dev-spring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="springdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="BeanLifeCycleDemoApp" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="dev-spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dev-spring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="springdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="BeanScopeDemoApp" type="1a9f42e2:ClassTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,13 +300,15 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-demo-annotation" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hwisun.springdemo2" />
       <recent name="com.hwisun.springdemo" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
@@ -305,13 +324,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BeanLifeCycleDemoApp">
-    <configuration name="BeanLifeCycleDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hwisun.springdemo.BeanLifeCycleDemoApp" />
+  <component name="RunManager" selected="Application.SwimJavaConfigDemoApp">
+    <configuration name="AnnotationBeanScopeDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hwisun.springdemo2.AnnotationBeanScopeDemoApp" />
       <module name="dev-spring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hwisun.springdemo.*" />
+          <option name="PATTERN" value="com.hwisun.springdemo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,12 +338,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BeanScopeDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hwisun.springdemo.BeanScopeDemoApp" />
+    <configuration name="AnnotationDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hwisun.springdemo2.AnnotationDemoApp" />
       <module name="dev-spring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hwisun.springdemo.*" />
+          <option name="PATTERN" value="com.hwisun.springdemo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,12 +351,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloSpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hwisun.springdemo.HelloSpringApp" />
+    <configuration name="JavaConfigDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true" show_console_on_std_out="true">
+      <option name="MAIN_CLASS_NAME" value="com.hwisun.springdemo2.JavaConfigDemoApp" />
       <module name="dev-spring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hwisun.springdemo.*" />
+          <option name="PATTERN" value="com.hwisun.springdemo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,12 +373,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetterDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hwisun.springdemo.SetterDemoApp" />
+    <configuration name="SwimJavaConfigDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hwisun.springdemo2.SwimJavaConfigDemoApp" />
       <module name="dev-spring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hwisun.springdemo.*" />
+          <option name="PATTERN" value="com.hwisun.springdemo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -369,18 +388,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.HelloSpringApp" />
-      <item itemvalue="Application.SetterDemoApp" />
-      <item itemvalue="Application.BeanScopeDemoApp" />
-      <item itemvalue="Application.BeanLifeCycleDemoApp" />
+      <item itemvalue="Application.AnnotationDemoApp" />
+      <item itemvalue="Application.AnnotationBeanScopeDemoApp" />
+      <item itemvalue="Application.JavaConfigDemoApp" />
+      <item itemvalue="Application.SwimJavaConfigDemoApp" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BeanLifeCycleDemoApp" />
+        <item itemvalue="Application.SwimJavaConfigDemoApp" />
+        <item itemvalue="Application.JavaConfigDemoApp" />
+        <item itemvalue="Application.AnnotationBeanScopeDemoApp" />
+        <item itemvalue="Application.AnnotationDemoApp" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.BeanScopeDemoApp" />
-        <item itemvalue="Application.SetterDemoApp" />
-        <item itemvalue="Application.HelloSpringApp" />
       </list>
     </recent_temporary>
   </component>
@@ -395,12 +414,15 @@
       <option name="presentableId" value="Default" />
       <updated>1594435915405</updated>
       <workItem from="1594435920083" duration="5013000" />
-      <workItem from="1594642479393" duration="4600000" />
+      <workItem from="1594642479393" duration="4896000" />
+      <workItem from="1594790868203" duration="11091000" />
+      <workItem from="1594819661224" duration="4425000" />
+      <workItem from="1594871226742" duration="6117000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9613000" />
+    <option name="totallyTimeSpent" value="31542000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -412,10 +434,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1280" y="23" width="1280" height="732" extended-state="0" />
+    <frame x="-1281" y="23" width="1280" height="732" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15670437" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16720517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -424,13 +446,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3296875" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3296875" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.3296875" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3296875" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3296875" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3296875" />
@@ -453,24 +475,80 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/hwisun/springdemo/BaseballCoach.java">
+    <entry file="file://$PROJECT_DIR$/spring-demo-one/beanScope-applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        <state relative-caret-position="240">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hwisun/springdemo/FortuneService.java">
+    <entry file="file://$PROJECT_DIR$/spring-demo-one/beanLifeCycle-applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="270">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hwisun/springdemo/HappyFortuneService.java">
+    <entry file="file://$PROJECT_DIR$/spring-demo-one/com/hwisun/springdemo/CricketCoach.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="315">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-demo-one/com/hwisun/springdemo/BeanScopeDemoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-demo-one/com/hwisun/springdemo/BeanLifeCycleDemoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-demo-one/com/hwisun/springdemo/TrackCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com.hwisun.springdemo/CricketCoach.java" />
+    <entry file="file://$PROJECT_DIR$/src/com.hwisun.springdemo/BeanScopeDemoApp.java" />
+    <entry file="file://$PROJECT_DIR$/src/com.hwisun.springdemo/BeanLifeCycleDemoApp.java" />
+    <entry file="file://$PROJECT_DIR$/src/com.hwisun.springdemo/HelloSpringApp.java" />
+    <entry file="file://$PROJECT_DIR$/src/com.hwisun.springdemo/Coach.java" />
+    <entry file="file://$PROJECT_DIR$/src/com.hwisun.springdemo/BaseballCoach.java" />
+    <entry file="file://$PROJECT_DIR$/src/com.hwisun.springdemo/MyApp.java" />
+    <entry file="file://$PROJECT_DIR$/spring-demo-one/com/hwisun/springdemo/HelloSpringApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-demo-one/sport.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-demo-one/com/hwisun/springdemo/HappyFortuneService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#138#139#0" expanded="true" />
             <element signature="e#186#187#0" expanded="true" />
@@ -478,123 +556,204 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hwisun/springdemo/HelloSpringApp.java">
+    <entry file="file://$PROJECT_DIR$/spring-demo-one/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        <state relative-caret-position="123">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hwisun/springdemo/Coach.java">
+    <entry file="file://$PROJECT_DIR$/spring-demo-one/com/hwisun/springdemo/MyApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="75">
+          <caret line="5" column="14" selection-start-line="5" selection-end-line="5" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hwisun/springdemo/CricketCoach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
-          <folding>
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-            <element signature="e#728#729#0" expanded="true" />
-            <element signature="e#759#760#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sport.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
-          <folding>
-            <element signature="e#1010#1031#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hwisun/springdemo/SetterDemoApp.java">
+    <entry file="file://$PROJECT_DIR$/spring-demo-one/com/hwisun/springdemo/SetterDemoApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/spring-demo-one/com/hwisun/springdemo/FortuneService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/beanLifeCycle-applicationContext.xml">
+    <entry file="file://$PROJECT_DIR$/spring-demo-one/com/hwisun/springdemo/Coach.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hwisun/springdemo/MyApp.java">
+    <entry file="file://$PROJECT_DIR$/spring-demo-one/com/hwisun/springdemo/BaseballCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/FortuneService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/Coach.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hwisun/springdemo/BeanScopeDemoApp.java">
+    <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/RESTFortuneService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/beanScope-applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hwisun/springdemo/TrackCoach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        <state relative-caret-position="60">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
           <folding>
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#653#654#0" expanded="true" />
-            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hwisun/springdemo/BeanLifeCycleDemoApp.java">
+    <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/DatabaseFortuneService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-demo-annotation/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="73" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/TennisCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/BaseballCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/HappyFortuneService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/RandomFortuneService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/AnnotationBeanScopeDemoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/AnnotationDemoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/JavaConfigDemoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/SwimJavaConfigDemoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc-demo/spring-mvc-demo.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-demo-annotation/sport.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/SportConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/SadFortuneService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-demo-annotation/com/hwisun/springdemo2/SwimCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="290">
+            <caret line="63" column="28" lean-forward="true" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
           </first_editor>
           <second_editor />
         </state>
@@ -640,6 +799,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -651,11 +811,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|dev-spring</last-edited>
+          <last-edited>dev-spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
