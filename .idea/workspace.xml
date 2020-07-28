@@ -19,16 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8603b312-4652-44cc-8350-c39bf0756117" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-demo-mvc/.idea/artifacts/spring_demo_mvc_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo-mvc/.idea/artifacts/spring_demo_mvc_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-demo-mvc/.idea/libraries/Spring_5_2_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo-mvc/.idea/libraries/Spring_5_2_3_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-demo-mvc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo-mvc/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-demo-mvc/out/artifacts/spring_demo_mvc_war_exploded/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo-mvc/out/artifacts/spring_demo_mvc_war_exploded/WEB-INF/view/main-menu.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-demo-mvc/out/production/spring-demo-mvc/META-INF/spring-demo-mvc.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-demo-mvc/spring-demo-mvc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo-mvc/spring-demo-mvc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-demo-mvc/web/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo-mvc/web/WEB-INF/view/main-menu.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="8603b312-4652-44cc-8350-c39bf0756117" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -181,6 +172,7 @@
       <workItem from="1595781616363" duration="29000" />
       <workItem from="1595908856941" duration="216000" />
       <workItem from="1595935021907" duration="104000" />
+      <workItem from="1595935138713" duration="383000" />
     </task>
     <servers />
   </component>
@@ -197,6 +189,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="masterDetails">
     <states>

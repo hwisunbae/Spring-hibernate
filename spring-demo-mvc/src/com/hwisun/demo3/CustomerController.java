@@ -33,10 +33,8 @@ public class CustomerController {
     public String processForm(@Valid @ModelAttribute("customer")
                               Customer customer,
                               BindingResult bindingResult){
-        System.out.println("|"+customer.getFirstName()+"|");
-        System.out.println("|"+customer.getLastName()+"|");
-        System.out.println(customer.getFreePass());
-        System.out.println(customer.getPostalCode());
+        System.out.println(bindingResult);
+        System.out.println("\n");
         if(bindingResult.hasErrors()){
             return "customer-form";
         }else {
