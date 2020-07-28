@@ -19,8 +19,6 @@
       <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/spring-test-5.2.3.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/spring-tx-5.2.3.RELEASE.jar!/" />
-      <root url="jar://$USER_HOME$/Downloads/solution-code-spring-mvc-config-files/spring-mvc/starter-files/spring-mvc-demo/lib/javax.servlet.jsp.jstl-1.2.1.jar!/" />
-      <root url="jar://$USER_HOME$/Downloads/solution-code-spring-mvc-config-files/spring-mvc/starter-files/spring-mvc-demo/lib/javax.servlet.jsp.jstl-api-1.2.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

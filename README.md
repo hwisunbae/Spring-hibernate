@@ -1,5 +1,3 @@
-# Spring-hibernate
-
 # Spring Overview
 
 - Bean is an object

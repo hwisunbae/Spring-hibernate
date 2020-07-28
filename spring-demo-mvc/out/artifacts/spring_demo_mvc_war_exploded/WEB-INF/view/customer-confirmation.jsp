@@ -1,22 +1,20 @@
 <%--
   Created by IntelliJ IDEA.
   User: hwisunbae
-  Date: 2020-07-16
-  Time: 12:55
+  Date: 2020-07-28
+  Time: 7:11 p.m.
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>Customer Confirmation</title>
 </head>
 <body>
-<h2>Spring MVC Demo - home page</h2>
-
-<a href="hello/showForm">Hello world form</a>
+The Customer is confirmed: ${customer.firstName} ${customer.lastName}
 <br>
-<a href="student/showForm">Student form</a>
+Free passes : ${customer.freePass}
 <br>
-<a href="customer/showForm">Customer form</a>
+Postal code: ${customer.postalCode}
 </body>
 </html>
