@@ -60,3 +60,24 @@ Controller classes : business logic
 # Spring MVC form tags and data binding
 form:form, input, textarea, checkbox, radiobutton, select ...
 form:option - value(code) label(display)
+
+# Object To Relational Mapping (ORM)
+ - can be possible using by Hibernate (by Java annotation or XML)
+ - Java class uses camel case and data table uses _(underscore)
+ - minimize the code JDBC (manually set value and sequal query statement)
+ - Hibernate is on top of JDBC for communicating with the DB
+
+Entity class : Java class that is mapped to a DB table
+Java Annotation - Map class to DB table and Map fields to DB col
+
+##### Hibernate
+SessionFactory : read the hibernate config file, create session obj, heavy-weight object, only create once in your app
+Session : wraps a JDBC connection, main obj used to save/retrieve obj, short-lived object, retrieved from sessionFactory
+Custom generation strategy can be made thru IndentifierGenerator
+
+Retriving a obj from Hibernate needs ID or can be queryed
+
+##### Hibernate Advaned Mapping
+OneToOne, OneToMany, ManyToOne, ManyToMany
+Cascade is used for associating objects; if objects with PK is deleted, others that has an identical value of FK will be deleted as well
+Bi-directional / Uni-directional 
