@@ -81,3 +81,11 @@ Retriving a obj from Hibernate needs ID or can be queryed
 OneToOne, OneToMany, ManyToOne, ManyToMany
 Cascade is used for associating objects; if objects with PK is deleted, others that has an identical value of FK will be deleted as well
 Bi-directional / Uni-directional 
+
+Fetch type: eager vs lazy (retrieve everything vs retrieve on request) 
+Eager loading will load all dependent entties - load instructor and all of their courses at once 
+If we are searching for a course by keyword, it will load eveyrthing
+- ** only laod data when absoultely needed; prefer lazy loading over eager loading **
+Lazy loading will load the main entity on demand
+- In master view, use lazy loading
+- In detail view, retrieve entity and detail entity

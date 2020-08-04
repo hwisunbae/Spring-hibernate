@@ -1,7 +1,7 @@
 package com.hwisun.hibernate.advancedMapping.oneToOneUni.demo;
 
-import com.hwisun.hibernate.advancedMapping.oneToOneUni.entity.Instructor;
-import com.hwisun.hibernate.advancedMapping.oneToOneUni.entity.InstructorDetail;
+import com.hwisun.hibernate.advancedMapping.oneToOneBi.entity.Instructor;
+import com.hwisun.hibernate.advancedMapping.oneToOneBi.entity.InstructorDetail;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
